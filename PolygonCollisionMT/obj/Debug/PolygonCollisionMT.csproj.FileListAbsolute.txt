@@ -1,0 +1,36 @@
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.exe.config
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.exe
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.pdb
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.csprojResolveAssemblyReference.cache
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.Form1.resources
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.Properties.Resources.resources
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.UserCarControl.resources
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.csproj.GenerateResource.Cache
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.exe
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.pdb
+D:\nauka\studia polsl\informatyka\rok II\sem IV\programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.NeuroCarControl.resources
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.exe.config
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.exe
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.pdb
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.exe
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.pdb
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.Form1.resources
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.NeuroCarControl.resources
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.Properties.Resources.resources
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.UserCarControl.resources
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.csproj.GenerateResource.Cache
+C:\Users\Tomasz Kryg\Desktop\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.View.resources
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.exe.config
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.exe
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.pdb
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.exe
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\bin\Debug\PolygonCollisionMT.pdb
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.csprojResolveAssemblyReference.cache
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.Form1.resources
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.Properties.Resources.resources
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.UserCarControl.resources
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.View.resources
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.csproj.GenerateResource.Cache
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.NeuroCarControlView.resources
+E:\Programowanie obiektowe\NeuroCar-Szymek\PolygonCollisionMT\obj\Debug\PolygonCollisionMT.SimulationManagerView.resources
